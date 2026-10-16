@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/hero.svg" alt="Awesome REA Games: a collection of game decompilations, recompilations, ports and demos" width="100%">
-</p>
-
 # 🎮 Awesome REA/Decompiled Games
 
 <p align="center">
