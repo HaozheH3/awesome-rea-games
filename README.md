@@ -97,7 +97,7 @@ This 2004 Nintendo DS reworking of Super Mario 64 adds playable characters and h
 
 | Project | Resources | What makes it different |
 |:--|:--|:--|
-| **tangosdev/sm64ds-decomp** | [tangosdev/sm64ds-decomp](https://github.com/tangosdev/sm64ds-decomp) | A source reconstruction effort for the Nintendo DS version of Super Mario 64. |
+| **tangosdev/sm64ds-decomp** | [tangosdev/sm64ds-decomp](https://github.com/tangosdev/sm64ds-decomp) · [Reviewed status](https://github.com/tangosdev/sm64ds-decomp/blob/af8636d638322b88738ef7ad4b4f28ed9c5be24f/README.md) | A matching source reconstruction of the Nintendo DS game. The project tracks byte-matched functions separately from PC-port linkage; these measures do not establish complete port playability. |
 
 ---
 
@@ -1454,7 +1454,7 @@ Touhou 4 is a 1998 PC-98 bullet-hell game from the series' early era. Its recons
 
 | Project | Resources | What makes it different |
 |:--|:--|:--|
-| **N0zoM1z0/th04** | [N0zoM1z0/th04](https://github.com/N0zoM1z0/th04) | A REA-assisted reconstruction of the PC-98 era Touhou 4 game. |
+| **N0zoM1z0/th04** | [N0zoM1z0/th04](https://github.com/N0zoM1z0/th04) · [Reviewed status](https://github.com/N0zoM1z0/th04/blob/32ea402e4e6912c29277c5d231d15782198d6f1e/README.md) | A PC-98 reconstruction with separate function-matching and runtime checks. At the linked checkpoint, the latest paired DOS test replaces MAIN only, retaining original OP, MAINE, ZUN and assets; it does not establish a complete four-source campaign. |
 
 ---
 
