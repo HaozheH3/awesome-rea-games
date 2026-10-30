@@ -2,6 +2,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+  <a href="https://github.com/reacher-z/Awesome-REA"><img src="https://raw.githubusercontent.com/reacher-z/Awesome-REA/main/assets/featured-by-awesome-rea-inline.svg" alt="Featured by Awesome REA" width="184" height="20"></a>
   <a href="#inventory"><img src="https://img.shields.io/badge/games-103-2f81f7.svg" alt="103 games"></a>
   <a href="#inventory"><img src="https://img.shields.io/badge/projects-140-1f9d8a.svg" alt="140 projects"></a>
   <a href="#inventory"><img src="https://img.shields.io/badge/categories-8-ed9a45.svg" alt="8 categories"></a>
