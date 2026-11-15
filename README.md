@@ -2,8 +2,8 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
-  <a href="#inventory"><img src="https://img.shields.io/badge/games-103-2f81f7.svg" alt="103 games"></a>
-  <a href="#inventory"><img src="https://img.shields.io/badge/projects-140-1f9d8a.svg" alt="140 projects"></a>
+  <a href="#inventory"><img src="https://img.shields.io/badge/games-104-2f81f7.svg" alt="104 games"></a>
+  <a href="#inventory"><img src="https://img.shields.io/badge/projects-141-1f9d8a.svg" alt="141 projects"></a>
   <a href="#inventory"><img src="https://img.shields.io/badge/categories-8-ed9a45.svg" alt="8 categories"></a>
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg" alt="Contributions welcome"></a>
 </p>
@@ -19,7 +19,7 @@ Each game has one representative image, a short introduction to the original rel
 
 | Browse | Games | What you will find |
 |:--|--:|:--|
-| [🧭 Platformers & action adventures](#platformers--action-adventures) | 32 | Platforming, exploration, and story-led action. |
+| [🧭 Platformers & action adventures](#platformers--action-adventures) | 33 | Platforming, exploration, and story-led action. |
 | [🧙 RPGs & roguelikes](#rpgs--roguelikes) | 20 | Role-playing games, action RPGs, and roguelikes. |
 | [⚔️ Action, shooters & fighting](#action-shooters--fighting) | 14 | Open-world action, shooters, and fighting games. |
 | [👻 Horror & suspense](#horror--suspense) | 5 | Survival horror and suspense. |
@@ -43,6 +43,17 @@ Each game has one representative image, a short introduction to the original rel
 ## 🧭 Platformers & action adventures
 
 Platforming, exploration, and story-led action games.
+
+<a id="the-elder-scrolls-adventures-redguard"></a>
+### The Elder Scrolls Adventures: Redguard
+
+<a href="https://github.com/michidk/maiko"><img src="https://raw.githubusercontent.com/michidk/maiko/main/web/og.png" alt="Maiko project artwork for Redguard" width="400"></a><br><sub>[Project artwork source](https://github.com/michidk/maiko/blob/main/web/og.png), provided by the submitting project under its [MIT license](https://github.com/michidk/maiko/blob/main/LICENSE). This is project artwork, not a gameplay screenshot.</sub>
+
+Bethesda Softworks released this single-player action adventure for DOS in 1998. Players control Cyrus on the island of Stros M'Kai. [Original game](https://en.wikipedia.org/wiki/The_Elder_Scrolls_Adventures:_Redguard)
+
+| Project | Links | Description |
+|:--|:--|:--|
+| **Maiko** | [Source](https://github.com/michidk/maiko) · [Build native package](https://michidk.github.io/maiko/) | Static translation of the original executable with Rust runtime services for Windows, Linux and macOS, without DOSBox. Build locally from your own RGFX.EXE; no game code or assets are distributed. The browser builds native packages rather than playing the game. GOG is supported; Steam lacks the required Glide executable. Development is active and AI-assisted. |
 
 <a id="super-mario-64"></a>
 ### 🍄 Super Mario 64
