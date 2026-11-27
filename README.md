@@ -2,8 +2,8 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
-  <a href="#inventory"><img src="https://img.shields.io/badge/games-103-2f81f7.svg" alt="103 games"></a>
-  <a href="#inventory"><img src="https://img.shields.io/badge/projects-140-1f9d8a.svg" alt="140 projects"></a>
+  <a href="#inventory"><img src="https://img.shields.io/badge/games-104-2f81f7.svg" alt="104 games"></a>
+  <a href="#inventory"><img src="https://img.shields.io/badge/projects-141-1f9d8a.svg" alt="141 projects"></a>
   <a href="#inventory"><img src="https://img.shields.io/badge/categories-8-ed9a45.svg" alt="8 categories"></a>
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg" alt="Contributions welcome"></a>
 </p>
@@ -23,7 +23,7 @@ Each game has one representative image, a short introduction to the original rel
 | [🧙 RPGs & roguelikes](#rpgs--roguelikes) | 20 | Role-playing games, action RPGs, and roguelikes. |
 | [⚔️ Action, shooters & fighting](#action-shooters--fighting) | 14 | Open-world action, shooters, and fighting games. |
 | [👻 Horror & suspense](#horror--suspense) | 5 | Survival horror and suspense. |
-| [🏁 Racing & sports](#racing--sports) | 13 | Racing, driving, skating, football, and other sports. |
+| [🏁 Racing & sports](#racing--sports) | 14 | Racing, driving, skating, football, and other sports. |
 | [🏗️ Strategy & simulation](#strategy--simulation) | 7 | Management, simulation, and tactical strategy. |
 | [🕹️ Arcade & casual](#arcade--casual) | 10 | Arcade games, browser runners, and smaller reconstruction efforts. |
 | [🎪 Playable showcases](#playable-showcases) | 2 | Creator-shared browser games and demos. |
@@ -1233,6 +1233,21 @@ Snowball War, also called “Snowball Blast” by the project, is one event in E
 | Project | Resources | What makes it different |
 |:--|:--|:--|
 | **tuunanet/rea-ski-or-die-reconstruction** | [tuunanet/rea-ski-or-die-reconstruction](https://github.com/tuunanet/rea-ski-or-die-reconstruction) | A REA-assisted reconstruction of the Snowball War mode. It does not reconstruct the whole Ski or Die game. |
+
+---
+
+<a id="race-driver-grid"></a>
+### 🏎️ Race Driver: GRID
+
+<a href="https://github.com/PipeKnight/drig-race-driver/blob/bc8aac1d00f9bfbc9fc8702204da41b49f344b54/crates/grid-app/assets/macos/DRIG.png"><img src="https://raw.githubusercontent.com/PipeKnight/drig-race-driver/bc8aac1d00f9bfbc9fc8702204da41b49f344b54/crates/grid-app/assets/macos/DRIG.png" alt="DRIG application emblem" width="160"></a><br><sub>[Image source](https://github.com/PipeKnight/drig-race-driver/blob/bc8aac1d00f9bfbc9fc8702204da41b49f344b54/crates/grid-app/assets/macos/DRIG.png): DRIG's own application emblem, linked with the project maintainer's permission.</sub>
+
+Codemasters released Race Driver: GRID for PC and consoles in 2008. DRIG targets the original Windows PC game data and reimplements the engine in Rust with Bevy.
+
+<sub>◈ Engine reimplementation.</sub>
+
+| Project | Resources | What makes it different |
+|:--|:--|:--|
+| **DRIG** | [Source](https://github.com/PipeKnight/drig-race-driver) · [Release](https://github.com/PipeKnight/drig-race-driver/releases/tag/v0.1.0) | Early GPL-3.0-or-later build for Windows, Linux, and Apple Silicon macOS. Individual races can be finished. Requires a legally obtained copy of the PC game data. The project discloses that AI agents wrote most of the code. |
 
 ---
 
